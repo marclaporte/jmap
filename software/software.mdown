@@ -9,7 +9,7 @@ JMAP is still young but several implementations already exist, and more are on t
 ## Servers
 
 * **[JMAP Proxy](https://github.com/jmapio/jmap-perl)** (Perl, MIT): a complete JMAP server implementation that uses any IMAP, CalDAV and CardDAV store as a backend. Also available as a hosted service at [proxy.jmap.io](https://proxy.jmap.io).
-* **[Cyrus IMAP](https://docs.cyrus.foundation/imap/release-notes/3.0/x/3.0.0-beta1.html)** (C, BSD-style): A scalable enterprise-grade IMAP, CalDAV and CardDAV server. The 3.0 series is adding JMAP support.
+* **[Cyrus IMAP](https://cyrusimap.org/imap/release-notes/2.5/x/2.5.0.html#caldav-and-carddav-support)** (C, BSD-style): A scalable enterprise-grade IMAP, CalDAV and CardDAV server. The 3.0 series is adding JMAP support.
 * **[salada](https://github.com/robn/salada)** (Rust, MIT): A small standalone JMAP server, suitable for development and experimentation.
 
 ## Libraries
